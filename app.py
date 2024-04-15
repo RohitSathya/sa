@@ -111,4 +111,4 @@ def analyze():
     else:
         return 'Please provide some text, upload a file, or enter a YouTube URL.'
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run()
